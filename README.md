@@ -12,4 +12,4 @@ cd elm-mario
 elm-reactor
 ```
 
-Then go to [http://localhost:8000](http://localhost:8000/Mario.elm).
+Then go to [http://localhost:8000](http://localhost:8000/Main.elm).
